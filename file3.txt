@@ -1,3 +1,9 @@
 Hello Sir, 
 My name is Nikita N
+<<<<<<< HEAD
+This GIT sessions are very interesting!!!
+=======
 This GIT sessions are very interesting
+Thank You!!!
+>>>>>>> First
+Done

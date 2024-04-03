@@ -1,3 +1,13 @@
 Hello Sir,
 My name is Nikita N.
+<<<<<<< HEAD
 Modifing in Master Branch
+=======
+<<<<<<< HEAD
+created 2 branch
+=======
+Thank You For Informative sessions!!!
+>>>>>>> First
+Done with task
+>>>>>>> Second
+To Master
