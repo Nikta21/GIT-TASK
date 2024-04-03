@@ -1,3 +1,8 @@
 Hello Sir,
 My name is Nikita N.
+<<<<<<< HEAD
 created 2 branch
+=======
+Thank You For Informative sessions!!!
+>>>>>>> First
+Done with task
